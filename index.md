@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: "jjoonyna의 개발 노트"
 subtitle: "문제 해결 & 재사용 코드 모음"
 ---
