@@ -1,6 +1,7 @@
 ---
-layout: post
-title: "Hello GitHub Pages"
+layout: page
+title: "첫 블로그"
+permalink: /posts
 date: 2025-07-01 22:00:00 +0900
 categories: [GitHub]
 ---
